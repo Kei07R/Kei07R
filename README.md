@@ -5,6 +5,14 @@ Welcome to my profile
 
 ---
 ### ✪ ABOUT ME : 
+I am a Final Year Computer Science student interest in OSS and Ethical Hacking 💻
+- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+
+- :seedling: Exploring Technical Content Writing.
+
+- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+
+- :mailbox: Feel free to reach out to me on LinkedIn or through E-mail. 
 
 ---
 ### Thank you, feel free to connect.. 📨
