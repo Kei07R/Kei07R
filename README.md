@@ -62,7 +62,7 @@ I am a Final Year Computer Science student interest in OSS and Ethical Hacking ð
 
 ---
 ### ðŸ”¥ My Stats :
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Kei07R&theme=dark)](https://git.io/streak-stats) <hr>
+<!--[![GitHub Streak](https://streak-stats.demolab.com/?user=Kei07R&theme=dark)](https://git.io/streak-stats) <hr> -->
 ![](https://leetcard.jacoblin.cool/Kei-R?ext=heatmap)
 
 
