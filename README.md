@@ -18,36 +18,42 @@ I am a Final Year Computer Science student interest in OSS and Ethical Hacking ð
 ### :hammer_and_wrench: Languages and Tools :
 
 <div> 
+  <h4>Programming Languages</h4>
+  <img height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/cplusplus/cplusplus-original.svg" alt="C++" />
+  <img height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/python/python-original.svg" alt="Python" />
+</div>
+
+<div> 
   <h4>Design</h4>
-  <img height="60" width="60" src="" alt="" />
+  <img height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/figma/figma-original.svg" alt="Figma" />
 </div>
 
 <div>
   <h4>Frontend</h4>
-  <img height="60" width="60" src="" alt="" />
-  <img height="60" width="60" src="" alt="" />
-  <img height="60" width="60" src="" alt="" />
-  <img height="60" width="60" src="" alt="" />
-  <img height="60" width="60" src="" alt="" />
+  <img height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/html5/html5-original.svg" alt="HTML5" />
+  <img height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/css3/css3-original.svg" alt="CSS3" />
+  <img height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/javascript/javascript-original.svg" alt="JavaScript" />
+  <img height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/vuejs/vuejs-original.svg" alt="VueJs" />
+  <img height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/bootstrap/bootstrap-original.svg" alt="BootStrap" />
 </div>
 
 <div> 
   <h4>Backend</h4>
-  <img height="60" width="60" src="" alt="" />
-  <img height="60" width="60" src="" alt="" />
+  <img height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJs" />
+  <img height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/flask/flask-original.svg" alt="Flask" />
 </div>
 
 <div> 
   <h4>Database</h4>
-  <img height="60" width="60" src="" alt="" />
-  <img height="60" width="60" src="" alt="" />
+  <img height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/mongodb/mongodb-original.svg" alt="MongoDB" />
+  <img height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/mysql/mysql-original.svg" alt="MySQL" />
 </div>
 
 <div> 
   <h4>Deployment</h4>
-  <img height="60" width="60" src="" alt="" />
-  <img height="60" width="60" src="" alt="" />
-  <img height="60" width="60" src="" alt="" />
+  <img height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/docker/docker-original.svg" alt="Docker" />
+  <img height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" />
+  <img height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/github/github-original.svg" alt="Github" />
 </div>
 
 ---
