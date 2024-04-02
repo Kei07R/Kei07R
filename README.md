@@ -15,7 +15,7 @@ I am a Final Year Computer Science student interest in OSS and Ethical Hacking �
 - :mailbox: Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/kartikeiya-rai-41a95b22a/) or through [E-mail](mailto:kei.skillsboost@gmail.com).
 
 ---
-### :hammer_and_wrench: Languages and Tools :
+### 🛠️ Languages and Tools :
 
 <div> 
   <h4>Programming Languages</h4>
@@ -55,6 +55,11 @@ I am a Final Year Computer Science student interest in OSS and Ethical Hacking �
   <img height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" />
   <img height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/github/github-original.svg" alt="Github" />
 </div>
+
+---
+### 🔥 My Stats :
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Kei07R&theme=dark)](https://git.io/streak-stats)
 
 ---
 ### Thank you, feel free to connect.. 📨
