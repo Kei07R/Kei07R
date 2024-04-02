@@ -3,6 +3,18 @@ Welcome to my profile
 
 <img height=300px width=300xp src="https://static.wikia.nocookie.net/shovelknight/images/a/a0/SSpecterKnightWeak.gif/revision/latest?cb=20230303141353" />
 
+<div> 
+  <a href="https://www.linkedin.com/in/kartikeiya-rai-41a95b22a">
+    <img src="https://img.shields.io/badge/LinkedIn-blue" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/Kei07R">
+    <img src="https://img.shields.io/badge/X-black" alt="Twitter" />
+  </a>
+  <a href="https://leetcode.com/Kei-R/">
+    <img src="https://img.shields.io/badge/LeetCode-orange" alt="LeetCode" />
+  </a>
+</div>
+
 ---
 ### ✪ ABOUT ME : 
 I am a Final Year Computer Science student interest in OSS and Ethical Hacking 💻
