@@ -12,7 +12,7 @@ Welcome to my profile
 I am a Final Year Computer Science student interest in OSS and Ethical Hacking 💻
 - :telescope: Learning, Building and contributing to frontend and backend applications.
 
-- :seedling: Exploring Python and VueJs.
+- :seedling: Exploring Python and React.
 
 - :zap: In my free time, I solve problems on LeetCode and read Dev news.
 
