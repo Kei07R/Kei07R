@@ -3,7 +3,7 @@ Welcome to my profile
 
 <img height=300px width=300xp src="https://static.wikia.nocookie.net/shovelknight/images/a/a0/SSpecterKnightWeak.gif/revision/latest?cb=20230303141353" />
 
-  [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/kartikeiya-rai-41a95b22a/)
+<!--  [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/kartikeiya-rai-41a95b22a/) -->
   [![Twitter Badge](https://img.shields.io/badge/X-black)](https://twitter.com/Kei07R)
   [![LeetCode Badge](https://img.shields.io/badge/LeetCode-orange)](https://leetcode.com/Kei-R/)
 
@@ -16,7 +16,7 @@ I am a Final Year Computer Science student interest in OSS and Ethical Hacking �
 
 - :zap: In my free time, I solve problems on LeetCode and read Dev news.
 
-- :mailbox: Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/kartikeiya-rai-41a95b22a/) or through [E-mail](mailto:kei.skillsboost@gmail.com).
+- :mailbox: Feel free to reach out to me on <!-- [LinkedIn](https://www.linkedin.com/in/kartikeiya-rai-41a95b22a/) --> or through [E-mail](mailto:kei.skillsboost@gmail.com).
 
 ---
 ### 🛠️ Languages and Tools :
