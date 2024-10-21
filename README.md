@@ -24,7 +24,7 @@ I am a Final Year Computer Science student interest in OSS and Ethical Hacking ð
 <div> 
   <h4>Programming Languages</h4>
   <img height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/cplusplus/cplusplus-original.svg" alt="C++" />
-  <img height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/python/python-original.svg" alt="Python" />
+  <img height="60" width="60" src="[https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/python/python-original.svg](https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/java/java-original.svg)" alt="Java" />
 </div>
 
 <div> 
@@ -44,7 +44,6 @@ I am a Final Year Computer Science student interest in OSS and Ethical Hacking ð
 <div> 
   <h4>Backend</h4>
   <img height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJs" />
-  <img height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/flask/flask-original.svg" alt="Flask" />
 </div>
 
 <div> 
