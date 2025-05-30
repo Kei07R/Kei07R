@@ -58,6 +58,6 @@ I am a Final Year Computer Science student interest in OSS and Ethical Hacking ð
   <img height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" />
   <img height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/github/github-original.svg" alt="Github" />
 </div>
----
+
 ### Thank you, feel free to connect.. ðŸ“¨
 <img height=300px width= 300px src="https://static.wikia.nocookie.net/shovelknight/images/c/c1/LichLordSpecter.png/revision/latest/scale-to-width-down/1000?cb=20170902081813"/>
