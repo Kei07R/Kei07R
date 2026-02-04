@@ -1,4 +1,4 @@
-### Hey there 👋 I'm Kartikeiya Rai
+### Hey there 👋
 
 Software Engineer | Full Stack Developer
 
