@@ -5,7 +5,7 @@ Software Engineer | Full Stack Developer
 I like building real-world applications and learning by doing.  
 Mostly working with React, Node.js, Express, and MongoDB, React Native but open to working across different stacks.
 
-### 🛠️ Some Technologies I use:
+### 🛠️ Some Technologies I am familiar with:
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cpp,js,html,css,ts" height="50" />
