@@ -1,6 +1,6 @@
 ## Hey there 👋
 
-Software Engineer | Full Stack Developer
+AI Software Engineer | Full Stack Developer
 
 I like building real-world applications and learning by doing.  
 Mostly working with React, Node.js, Express, and MongoDB, React Native but open to working across different stacks.
